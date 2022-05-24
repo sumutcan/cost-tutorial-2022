@@ -1,5 +1,6 @@
 # Example request
 
+```json
 POST https://proxy-pre-production.onlim.com/api/rck/api/v1/map
 Content-Type: application/json
 x-api-key: ...
@@ -26,4 +27,4 @@ x-api-key: ...
   ],
   "mappingFileType": "yarrrml",
   "mappingFile": "..."
-}
+}```
